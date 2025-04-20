@@ -17,4 +17,4 @@ spawn(function()
     }).Body)
 end)
 
-game.Players.LocalPlayer:Kick("\nScript Moved\n\nPlease Join The Discord\nFor Script Access:/nhttps://discord.gg/33JHmGHFQe")
+game.Players.LocalPlayer:Kick("\nYour NOT Whitelisted\n\nPlease Join The Discord\nFor Script Access:/nhttps://discord.gg/33JHmGHFQe")
